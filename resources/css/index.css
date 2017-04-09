@@ -10,8 +10,8 @@ html {
   font-size: 50px;
 }
 
-.link {
-  color: aquamarine;
+.link a {
+  color: Aquamarine;
   font-size: 16px;
 }
 
@@ -24,4 +24,8 @@ html {
 .gray {
   color: gray;
   font-size: 21px;
+}
+
+.copyright {
+  text-align: right;
 }
