@@ -1,0 +1,27 @@
+html {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  background-color: black;
+}
+
+#topline {
+  font-weight: bold;
+  color: white;
+  font-size: 50px;
+}
+
+.link {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.lower {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.gray {
+  color: gray;
+  font-size: 21px;
+}
